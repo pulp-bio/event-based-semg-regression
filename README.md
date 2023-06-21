@@ -3,12 +3,11 @@
 
 
 ## Introduction
-This repository contains the code to reproduce our paper "Event-based Low-Power and Low-Latency Regression Method for Hand Kinematics from Surface EMG".
+Code to reproduce our paper "Event-based Low-Power and Low-Latency Regression Method for Hand Kinematics from Surface EMG".
 
 
 
 ## Usage
-Steps:
 1. Run ``spikification.ipynb`` (or equivalently ``spikification.py``) to spikify the NinaPro Database 8. 
 2. Run ``experiment_taus.ipynb`` (or equivalently ``experiment_taus.py``) for the regression epxeriments.
 3. Run ``read_results.ipynb`` to get the results statistics.
