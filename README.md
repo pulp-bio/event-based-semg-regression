@@ -9,9 +9,9 @@ This repository contains the code to reproduce our paper "Event-based Low-Power 
 
 ## Usage
 Steps:
-1. Run ``spikification.ipynb'' (or equivalently ``spikification.py'') to spikify the NinaPro Database 8. 
-2. Run ``experiment_taus.ipynb'' (or equivalently ``experiment_taus.py'') for the regression epxeriments.
-3. Run ``read_results.ipynb'' to get the results statistics.
+1. Run ``spikification.ipynb`` (or equivalently ``spikification.py``) to spikify the NinaPro Database 8. 
+2. Run ``experiment_taus.ipynb`` (or equivalently ``experiment_taus.py``) for the regression epxeriments.
+3. Run ``read_results.ipynb`` to get the results statistics.
 
 
 
