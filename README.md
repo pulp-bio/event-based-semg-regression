@@ -26,7 +26,16 @@ This work was realized at the [Neuromorphic Cognitive Systems (NCS) group](https
 ## Citation
 If you would like to reference the project, please cite the following paper:
 ```
-@inproceedings{}
+@INPROCEEDINGS{10164372,
+  author={Zanghieri, Marcello and Benatti, Simone and Benini, Luca and Donati, Elisa},
+  booktitle={2023 9th International Workshop on Advances in Sensors and Interfaces (IWASI)}, 
+  title={Event-based Low-Power and Low-Latency Regression Method for Hand Kinematics from Surface EMG}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={293-298},
+  doi={10.1109/IWASI58316.2023.10164372}}
+
 ```
 
 
