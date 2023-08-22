@@ -3,7 +3,7 @@
 
 
 ## Introduction
-Code to reproduce our paper "Event-based Low-Power and Low-Latency Regression Method for Hand Kinematics from Surface EMG".
+Code to reproduce our paper "Event-based Low-Power and Low-Latency Regression Method for Hand Kinematics from Surface EMG" [1].
 
 
 
@@ -40,7 +40,7 @@ If you would like to reference the project, please cite the following paper:
 
 
 ## References
-[1] - M. Zanghieri, S. Benatti, L. Benini, E.Donati. "Event-based Low-Power and Low-Latency Regression Method for Hand Kinematics from Surface EMG" In: 2023 IEEE International Workshop on Advances in Sensors and Interfaces (IWASI), pp. XXXX-YYYY. IEEE, 2023.
+[1] M. Zanghieri, S. Benatti, L. Benini and E. Donati, "Event-based Low-Power and Low-Latency Regression Method for Hand Kinematics from Surface EMG," 2023 9th International Workshop on Advances in Sensors and Interfaces (IWASI), Monopoli (Bari), Italy, 2023, pp. 293-298, doi: 10.1109/IWASI58316.2023.10164372.
 
 
 
