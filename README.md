@@ -3,7 +3,7 @@
 
 
 ## Introduction
-Thsi repository contains the code to reproduce our paper M. Zanghieri _et al._, “Event-based Low-Power and Low-Latency Regression Method for Hand Kinematics from Surface EMG” [1](#1).
+This repository contains the code to reproduce our paper M. Zanghieri _et al._, “Event-based Low-Power and Low-Latency Regression Method for Hand Kinematics from Surface EMG” [[1]](#1).
 
 
 
@@ -16,31 +16,32 @@ Thsi repository contains the code to reproduce our paper M. Zanghieri _et al._, 
 
 ## Authors
 This work was realized at the [Neuromorphic Cognitive Systems (NCS) group](https://www.ini.uzh.ch/en/research/groups/ncs.html) of the [Institute of Neuroinformatics (INI)](https://www.ini.uzh.ch/en.html) of University of Zürich and ETH Zürich by:
-- [Marcello Zanghieri](https://scholar.google.com/citations?user=WnIqQj4AAAAJ&hl=en)
-- [Prof. Simone Benatti](https://scholar.google.com/citations?hl=en&user=8Fbi_kwAAAAJ)
-- Prof. [Luca Benini](https://scholar.google.com/citations?hl=en&user=8riq3sYAAAAJ)
-- Dr. [Elisa Donati](https://scholar.google.com/citations?hl=en&user=03ZYhbIAAAAJ)
+- [Marcello Zanghieri](https://scholar.google.com/citations?user=WnIqQj4AAAAJ&hl=en) (University of Bologna)
+- [Prof. Simone Benatti](https://scholar.google.com/citations?hl=en&user=8Fbi_kwAAAAJ) (University of Bologna, University of Modena and Reggio Emilia)
+- Prof. [Luca Benini](https://scholar.google.com/citations?hl=en&user=8riq3sYAAAAJ) (University of Bologna, ETH Zürich)
+- Dr. [Elisa Donati](https://scholar.google.com/citations?hl=en&user=03ZYhbIAAAAJ) (Institute of Neuroinformatics (INI)](https://www.ini.uzh.ch/en.html) of University of Zürich and ETH Zürich)
 
 
 
 ## Citation
-If you would like to reference the project, please cite the following paper:
+When using or referencing the project, please cite our paper:
 ```
 @INPROCEEDINGS{10164372,
   author={Zanghieri, Marcello and Benatti, Simone and Benini, Luca and Donati, Elisa},
   booktitle={2023 9th International Workshop on Advances in Sensors and Interfaces (IWASI)}, 
-  title={Event-based Low-Power and Low-Latency Regression Method for Hand Kinematics from Surface EMG}, 
+  title={Event-based Low-Power and Low-Latency Regression Method for Hand Kinematics from Surface {EMG}}, 
   year={2023},
   volume={},
   number={},
   pages={293-298},
   doi={10.1109/IWASI58316.2023.10164372}}
-
 ```
 
 
+
 ## References
-[1] M. Zanghieri, S. Benatti, L. Benini and E. Donati, "Event-based Low-Power and Low-Latency Regression Method for Hand Kinematics from Surface EMG," _2023 9th International Workshop on Advances in Sensors and Interfaces (IWASI)_, Monopoli (Bari), Italy, 2023, pp. 293-298, doi: [10.1109/IWASI58316.2023.10164372](https://ieeexplore.ieee.org/document/10164372).
+<a id="1">[1]</a>
+M. Zanghieri, S. Benatti, L. Benini and E. Donati, “Event-based Low-Power and Low-Latency Regression Method for Hand Kinematics from Surface EMG,” _2023 9th International Workshop on Advances in Sensors and Interfaces (IWASI)_, Monopoli (Bari), Italy, 2023, pp. 293-298, doi: [10.1109/IWASI58316.2023.10164372](https://ieeexplore.ieee.org/document/10164372).
 
 
 
