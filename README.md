@@ -3,7 +3,7 @@
 
 
 ## Introduction
-Code to reproduce our paper "Event-based Low-Power and Low-Latency Regression Method for Hand Kinematics from Surface EMG" [1].
+Thsi repository contains the code to reproduce our paper M. Zanghieri _et al._, “Event-based Low-Power and Low-Latency Regression Method for Hand Kinematics from Surface EMG” [1](#1).
 
 
 
@@ -15,11 +15,11 @@ Code to reproduce our paper "Event-based Low-Power and Low-Latency Regression Me
 
 
 ## Authors
-This work was realized at the [Neuromorphic Cognitive Systems (NCS) group](https://www.ini.uzh.ch/en/research/groups/ncs.html) of the [Institute of Neuroinformatics (INI)](https://www.ini.uzh.ch/en.html) of University of Zurich and ETH Zurich by:
-- [Marcello Zanghieri](https://scholar.google.com/citations?user=WnIqQj4AAAAJ&hl=en) (Software)
-- [Simone Benatti](https://scholar.google.com/citations?hl=en&user=8Fbi_kwAAAAJ) (Supervision, Conceptualization)
-- [Luca Benini](https://scholar.google.com/citations?hl=en&user=8riq3sYAAAAJ) (Supervision, Conceptualization, Funding Acquisition)
-- [Elisa Donati](https://scholar.google.com/citations?hl=en&user=03ZYhbIAAAAJ) (Supervision, Conceptualization)
+This work was realized at the [Neuromorphic Cognitive Systems (NCS) group](https://www.ini.uzh.ch/en/research/groups/ncs.html) of the [Institute of Neuroinformatics (INI)](https://www.ini.uzh.ch/en.html) of University of Zürich and ETH Zürich by:
+- [Marcello Zanghieri](https://scholar.google.com/citations?user=WnIqQj4AAAAJ&hl=en)
+- [Prof. Simone Benatti](https://scholar.google.com/citations?hl=en&user=8Fbi_kwAAAAJ)
+- Prof. [Luca Benini](https://scholar.google.com/citations?hl=en&user=8riq3sYAAAAJ)
+- Dr. [Elisa Donati](https://scholar.google.com/citations?hl=en&user=03ZYhbIAAAAJ)
 
 
 
