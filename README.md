@@ -16,7 +16,7 @@ This repository contains the code to reproduce our paper M. Zanghieri _et al._, 
 
 ## Authors
 This work was realized at the [**Neuromorphic Cognitive Systems (NCS)** group](https://www.ini.uzh.ch/en/research/groups/ncs.html) of the [**Institute of Neuroinformatics (INI)**](https://www.ini.uzh.ch/en.html) of University of Zürich and ETH Zürich by:
-- [Marcello Zanghieri](https://scholar.google.com/citations?user=WnIqQj4AAAAJ&hl=en) (University of Bologna - work realized as a visiting Ph.D. student at INI's NCS)
+- [Marcello Zanghieri](https://scholar.google.com/citations?user=WnIqQj4AAAAJ&hl=en) -- University of Bologna - work realized as a visiting Ph.D. student at INI's NCS)
 - [Prof. Simone Benatti](https://scholar.google.com/citations?hl=en&user=8Fbi_kwAAAAJ) (University of Bologna, University of Modena and Reggio Emilia)
 - [Prof. Luca Benini](https://scholar.google.com/citations?hl=en&user=8riq3sYAAAAJ) (University of Bologna, ETH Zürich)
 - [Dr. Elisa Donati](https://scholar.google.com/citations?hl=en&user=03ZYhbIAAAAJ) (Institute of Neuroinformatics (INI) of University of Zürich and ETH Zürich)
